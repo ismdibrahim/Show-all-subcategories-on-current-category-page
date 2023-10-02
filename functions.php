@@ -1,3 +1,5 @@
+<?php
+
 add_shortcode( 'list_subcats', function() {
     ob_start();
     
